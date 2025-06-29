@@ -1,0 +1,7 @@
+{
+  "timestamp": "2024-06-28T10:32:00Z",
+  "source_ip": "192.168.1.54",
+  "destination_ip": "10.0.0.9",
+  "event_type": "user_login_failed",
+  "details": "5 failed login attempts within 3 minutes from same IP"
+}

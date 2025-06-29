@@ -1,0 +1,7 @@
+{
+  "timestamp": "2024-06-28T12:45:00Z",
+  "source_ip": "203.0.113.10",
+  "destination_ip": "10.0.0.15",
+  "event_type": "file_access",
+  "details": "User downloaded 200MB of sensitive files outside business hours"
+}
